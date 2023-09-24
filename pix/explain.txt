@@ -1,0 +1,1 @@
+#This is a pictures directory used for the web page. I created this file because Github doesn't have create directories feature if you are uploading PNGs. But it works with text files if you'll add /
