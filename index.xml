@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Nikreaz's blog reworked</title>
+  <link>https://nikreaz.github.io/index.html</link>
+  <description>Nikreaz's RSS feed</description>
+  <item>
+    <title>24/09/2023 The blog is back</title> 
+    <description>After about 7 months i'm continuing my blog. Please don't wait for posts on Codeberg nor Neocities. I'm not in the mood ringht now to write anything, here will be a post tomorrow.</description>
+  </item>
+  <item>
+    <title>07/05/2023 A Gentoo-styled NixOS Wallpaper</title> 
+    <description>It's snowing tonight. (Update 24/09/2023: why are there stars when it's snowing?) The wallpaper is on the graphical website.</description>
+  </item>
+    <title>10/03/2023 Frutiger aero is kind of mainstream now</title>
+    <description>I really love skeuomorphism and Windows 7/Vista themed icons & UI. I don't like minimalism that much. I never liked minimalism and modernism. I see now that Frutiger aero, Skeuomorphism and neumorphism are becoming popular since the start of this year. Looking forward to Nintendo improving the Switch's menu just like it was on Wii U. RHYMES.</description>
+    </item>
+  <item>
+    <title>Why i switched to GNU/Linux</title>
+    <description>For over a year i've been a Mac user. I thought that MacOS would be the final move. However, i didn't liked it that much. The problem is in bloatware. While you're installing apps on MacOS, they generate caches and .plist files. At the end, if you'll install too much software on Mac, and then delete it, the cache will stay. MacOS of cource has tools like CleanMyMac, but at the end they are proprietary garbage. So i decided to turn on my old Thinkpad and install Arch Linux to it again. I riced my BSPWM desktop, sent to a friend, and he said something like "Full desktop environments are better". But that doesn't really matters now. I can now proudly say that i use Arch btw. I hate bloat.</description>
+  </item>
+</rss>
